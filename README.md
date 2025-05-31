@@ -6,4 +6,6 @@
 
 <img width="250" alt="Implementation" src="https://github.com/user-attachments/assets/3b4e1393-5df9-49ab-bf73-d0aca10eed9d" />
 <img width="750" alt="Implementation_Zoomed" src="https://github.com/user-attachments/assets/b7a20170-eaa3-4db0-8851-50d0aa76e588" /></b>
-![RLC](https://github.com/user-attachments/assets/9eca678f-1fb7-4823-91ac-75b6cdfcf63c)</b>
+
+
+![RLC png](https://github.com/user-attachments/assets/2439dfd8-2601-4131-b937-a48dfaa3f4ae)
