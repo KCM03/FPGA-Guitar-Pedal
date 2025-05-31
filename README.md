@@ -1,4 +1,6 @@
 # FPGA-Guitar-Pedal
+
+## Overview
 <img width="946" alt="Block_Diagram" src="https://github.com/user-attachments/assets/b4ca7007-7b71-4baf-a603-c80d8bbab488" /></b>
 
 
@@ -8,4 +10,7 @@
 <img width="750" alt="Implementation_Zoomed" src="https://github.com/user-attachments/assets/b7a20170-eaa3-4db0-8851-50d0aa76e588" /></b>
 
 
+## Source Files
+
+## Output Filter
 ![RLC](https://github.com/user-attachments/assets/229f0308-e1e9-42ca-861c-0bce56ff7b43)
