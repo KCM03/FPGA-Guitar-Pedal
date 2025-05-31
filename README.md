@@ -10,7 +10,7 @@
 <img width="745" alt="Implementation_Zoomed" src="https://github.com/user-attachments/assets/b7a20170-eaa3-4db0-8851-50d0aa76e588" /></b>
 
 
-## Source Files
+## FPGA-Hardware Elements
 
 ## Output Filter
 ![RLC](https://github.com/user-attachments/assets/229f0308-e1e9-42ca-861c-0bce56ff7b43)
