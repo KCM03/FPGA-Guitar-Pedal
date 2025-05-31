@@ -8,5 +8,4 @@
 <img width="750" alt="Implementation_Zoomed" src="https://github.com/user-attachments/assets/b7a20170-eaa3-4db0-8851-50d0aa76e588" /></b>
 
 
-<img width="750" alt="Implementation_Zoomed" src="[https://github.com/user-attachments/assets/b7a20170-eaa3-4db0-8851-50d0aa76e588](https://github.com/user-attachments/assets/2439dfd8-2601-4131-b937-a48dfaa3f4ae)" /></b>
-
+![RLC](https://github.com/user-attachments/assets/229f0308-e1e9-42ca-861c-0bce56ff7b43)
